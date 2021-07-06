@@ -1,0 +1,166 @@
+[14:57:31] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:57:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:57:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:57:31] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:57:31] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:57:31] [main/INFO]: Reloading ResourceManager: Default
+[14:57:36] [Worker-Main-2/INFO]: Loaded 7 recipes
+[14:57:37] [Worker-Main-2/INFO]: Loaded 927 advancements
+[14:57:46] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[14:57:46] [Server thread/INFO]: Loading properties
+[14:57:46] [Server thread/INFO]: Default game type: SURVIVAL
+[14:57:46] [Server thread/INFO]: Generating keypair
+[14:57:47] [Server thread/INFO]: Starting Minecraft server on 139.162.24.52:25565
+[14:57:48] [Server thread/INFO]: Using epoll channel type
+[14:57:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:57:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:57:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:57:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:57:48] [Server thread/INFO]: Preparing level "world"
+[14:57:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:57:55] [Server thread/INFO]: Preparing spawn area: 0%
+[14:57:55] [Server thread/INFO]: Preparing spawn area: 0%
+[14:57:55] [Server thread/INFO]: Preparing spawn area: 0%
+[14:57:55] [Server thread/INFO]: Preparing spawn area: 0%
+[14:57:55] [Server thread/INFO]: Preparing spawn area: 0%
+[14:57:55] [Server thread/INFO]: Preparing spawn area: 0%
+[14:57:55] [Server thread/INFO]: Preparing spawn area: 0%
+[14:57:55] [Server thread/INFO]: Preparing spawn area: 0%
+[14:57:55] [Server thread/INFO]: Preparing spawn area: 0%
+[14:57:55] [Server thread/INFO]: Preparing spawn area: 0%
+[14:57:55] [Server thread/INFO]: Preparing spawn area: 0%
+[14:57:55] [Server thread/INFO]: Preparing spawn area: 0%
+[14:57:55] [Server thread/INFO]: Preparing spawn area: 0%
+[14:57:55] [Server thread/INFO]: Preparing spawn area: 0%
+[14:57:56] [Server thread/INFO]: Preparing spawn area: 0%
+[14:57:56] [Server thread/INFO]: Preparing spawn area: 0%
+[14:57:58] [Server thread/INFO]: Preparing spawn area: 53%
+[14:57:58] [Server thread/INFO]: Preparing spawn area: 53%
+[14:57:58] [Server thread/INFO]: Preparing spawn area: 53%
+[14:57:58] [Server thread/INFO]: Preparing spawn area: 54%
+[14:58:00] [Server thread/INFO]: Time elapsed: 10967 ms
+[14:58:00] [Server thread/INFO]: Done (11.345s)! For help, type "help"
+[14:58:00] [Server thread/INFO]: Starting GS4 status listener
+[14:58:00] [Server thread/INFO]: Thread Query Listener started
+[14:58:00] [Server thread/INFO]: Starting remote control listener
+[14:58:00] [Query Listener #1/INFO]: Query running on 139.162.24.52:25565
+[14:58:00] [Server thread/INFO]: Thread RCON Listener started
+[14:58:00] [Server thread/INFO]: RCON running on 139.162.24.52:25575
+[14:58:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2120ms or 42 ticks behind
+[14:58:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6653ms or 133 ticks behind
+[15:03:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2537ms or 50 ticks behind
+[15:04:16] [Server thread/INFO]: kaz[/110.159.84.46:63827] logged in with entity id 236 at (-188.83752794818372, 61.161794344148, -155.37910488009604)
+[15:04:17] [Server thread/INFO]: kaz joined the game
+[15:04:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[15:04:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9015ms or 180 ticks behind
+[15:04:46] [Server thread/INFO]: kaz lost connection: Disconnected
+[15:04:46] [Server thread/INFO]: kaz left the game
+[15:04:46] [Server thread/WARN]: handleDisconnection() called twice
+[15:09:16] [Server thread/INFO]: kaz[/110.159.84.46:63879] logged in with entity id 430 at (-188.83752794818372, 61.161794344148, -155.37910488009604)
+[15:09:16] [Server thread/INFO]: kaz joined the game
+[15:09:46] [Server thread/INFO]: kaz lost connection: Timed out
+[15:09:46] [Server thread/INFO]: kaz left the game
+[15:09:46] [Server thread/WARN]: handleDisconnection() called twice
+[15:11:44] [Server thread/INFO]: YupSurprise[/121.122.83.70:61850] logged in with entity id 480 at (-323.78162478984245, 94.55388184509246, -166.38195475596328)
+[15:11:44] [Server thread/INFO]: YupSurprise joined the game
+[15:12:00] [Server thread/INFO]: YupSurprise lost connection: Disconnected
+[15:12:00] [Server thread/INFO]: YupSurprise left the game
+[15:12:01] [Server thread/INFO]: YupSurprise[/121.122.83.70:61852] logged in with entity id 564 at (-323.78162478984245, 94.55388184509246, -166.38195475596328)
+[15:12:01] [Server thread/INFO]: YupSurprise joined the game
+[15:12:22] [Server thread/INFO]: kaz[/110.159.84.46:63907] logged in with entity id 602 at (-188.83752794818372, 61.161794344148, -155.37910488009604)
+[15:12:22] [Server thread/INFO]: kaz joined the game
+[15:12:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[15:13:26] [Server thread/WARN]: YupSurprise moved too quickly! -0.33601052718489655,-0.7012968536522237,10.015654341129164
+[15:13:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[15:13:37] [Server thread/INFO]: kaz lost connection: Timed out
+[15:13:37] [Server thread/INFO]: kaz left the game
+[15:13:37] [Server thread/WARN]: handleDisconnection() called twice
+[15:13:57] [Server thread/INFO]: kaz[/110.159.84.46:63920] logged in with entity id 890 at (-188.83752794818372, 61.161794344148, -155.37910488009604)
+[15:13:57] [Server thread/INFO]: kaz joined the game
+[15:14:01] [Server thread/INFO]: <YupSurprise> heyyyy
+[15:14:21] [Server thread/INFO]: <YupSurprise> your roof garden is so pretty
+[15:14:27] [Server thread/INFO]: kaz lost connection: Timed out
+[15:14:27] [Server thread/INFO]: kaz left the game
+[15:15:01] [Server thread/INFO]: kaz[/110.159.84.46:63921] logged in with entity id 1063 at (-188.83752794818372, 61.161794344148, -155.37910488009604)
+[15:15:01] [Server thread/INFO]: kaz joined the game
+[15:15:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[15:15:47] [Server thread/INFO]: <YupSurprise> heyyy
+[15:15:51] [Server thread/INFO]: <YupSurprise> i love ur roof garden
+[15:16:04] [Server thread/INFO]: [YupSurprise: Teleported YupSurprise to kaz]
+[15:17:16] [Server thread/INFO]: <kaz> hey
+[15:17:19] [Server thread/INFO]: <YupSurprise> heyy
+[15:17:26] [Server thread/INFO]: <kaz> help me level this
+[15:17:26] [Server thread/INFO]: <YupSurprise> i love the garden and the flags
+[15:17:36] [Server thread/INFO]: <kaz> thank u darling
+[15:18:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
+[15:18:33] [Server thread/INFO]: <kaz> u wanna know somng funny
+[15:18:38] [Server thread/INFO]: <YupSurprise> ur funny
+[15:18:56] [Server thread/INFO]: <YupSurprise> fish
+[15:18:58] [Server thread/INFO]: YupSurprise has made the advancement [Tactical Fishing]
+[15:19:10] [Server thread/INFO]: <kaz> look at the fish
+[15:19:21] [Server thread/INFO]: <kaz> they all swim in one direction
+[15:19:33] [Server thread/INFO]: <YupSurprise> they're following u
+[15:19:42] [Server thread/INFO]: <kaz> because salmon swim upstream
+[15:19:54] [Server thread/INFO]: <kaz> and these are idiot salmon
+[15:20:06] [Server thread/INFO]: <YupSurprise> AWWWW
+[15:20:39] [Server thread/INFO]: <YupSurprise> yes they are a bunch of stupid salmon
+[15:20:50] [Server thread/INFO]: <YupSurprise> why are u overpopulating the river
+[15:21:05] [Server thread/INFO]: <kaz> idk
+[15:21:08] [Server thread/INFO]: <kaz> its fun
+[15:21:13] [Server thread/INFO]: <YupSurprise> awwww
+[15:21:19] [Server thread/INFO]: <YupSurprise> u just love overpopulation by
+[15:21:27] [Server thread/INFO]: <kaz> lets put in other sepcies of fish
+[15:21:42] [Server thread/INFO]: <kaz> yes
+[15:21:58] [Server thread/INFO]: <YupSurprise> theres tropical fish
+[15:22:08] [Server thread/INFO]: <kaz> put em in
+[15:23:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[15:23:52] [Server thread/INFO]: <YupSurprise> im gonna cause eutropification in minecraft
+[15:24:09] [Server thread/INFO]: <kaz> hot :D
+[15:26:25] [Server thread/INFO]: <YupSurprise> where u
+[15:26:41] [Server thread/INFO]: <kaz> further down the river
+[15:26:51] [Server thread/INFO]: <kaz> i am filling in the river
+[15:28:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[15:32:39] [Server thread/INFO]: <YupSurprise> put blocks under the first layer
+[15:32:43] [Server thread/INFO]: <YupSurprise> to place water
+[15:47:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[15:47:27] [Server thread/INFO]: YupSurprise lost connection: Disconnected
+[15:47:27] [Server thread/INFO]: YupSurprise left the game
+[15:47:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2529ms or 50 ticks behind
+[15:48:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2141ms or 42 ticks behind
+[15:49:37] [Server thread/INFO]: kaz lost connection: Timed out
+[15:49:37] [Server thread/INFO]: kaz left the game
+[15:49:37] [Server thread/WARN]: handleDisconnection() called twice
+[15:52:54] [Server thread/INFO]: kaz[/110.159.84.46:64229] logged in with entity id 5566 at (-225.07429655193422, 71.0, -99.1287455602955)
+[15:52:54] [Server thread/INFO]: kaz joined the game
+[15:53:47] [Server thread/INFO]: YupSurprise[/121.122.83.70:50512] logged in with entity id 5656 at (-409.03983023129894, 72.0, -153.4900057831671)
+[15:53:47] [Server thread/INFO]: YupSurprise joined the game
+[15:53:58] [Server thread/INFO]: YupSurprise lost connection: Disconnected
+[15:53:58] [Server thread/INFO]: YupSurprise left the game
+[15:54:00] [Server thread/INFO]: YupSurprise[/121.122.83.70:50519] logged in with entity id 5742 at (-409.03983023129894, 72.0, -153.4900057831671)
+[15:54:00] [Server thread/INFO]: YupSurprise joined the game
+[15:58:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2120ms or 42 ticks behind
+[15:58:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17031ms or 340 ticks behind
+[15:58:40] [Server thread/INFO]: kaz lost connection: Timed out
+[15:58:40] [Server thread/INFO]: kaz left the game
+[15:58:40] [Server thread/WARN]: handleDisconnection() called twice
+[15:59:03] [Server thread/WARN]: YupSurprise moved too quickly! 10.084184500616743,0.0,1.4574003632699544
+[15:59:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3702ms or 74 ticks behind
+[16:00:23] [Server thread/INFO]: YupSurprise lost connection: Disconnected
+[16:00:23] [Server thread/INFO]: YupSurprise left the game
+[23:00:19] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:00:19] [Server thread/INFO]: <--[HERE]
+[23:00:19] [Server thread/INFO]: Stopping the server
+[23:00:19] [Server thread/INFO]: Stopping server
+[23:00:19] [Server thread/INFO]: Saving players
+[23:00:19] [Server thread/INFO]: Saving worlds
+[23:00:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:00:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:00:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:00:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:00:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:00:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:00:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:00:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:00:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:00:20] [Server thread/INFO]: Thread RCON Listener stopped
+[23:00:21] [Server thread/INFO]: Thread Query Listener stopped
